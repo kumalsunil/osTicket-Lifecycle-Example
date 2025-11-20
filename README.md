@@ -15,14 +15,14 @@ The user, **Ken**, navigates to the public Support Center URL (`http://localhost
 * **Support Center Home:** Ken sees the main page and clicks **Open a New Ticket**.
     * <img width="1521" height="681" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/f1296fb9-1468-4c41-a0d3-dca366ddb4c8" />
 * **Ticket Creation:** Ken fills out the form, providing his contact information and selecting the **Password Reset** Help Topic.
-    * <img width="1521" height="681" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/4c2ee4af-a6f0-42a3-90b7-b65532557eb4" />
+    * <img width="873" height="928" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/0ce161f2-8ff4-48bd-8eff-43e566e632b5" />
 
 ### 2. 🗃️ Agent Queue (Staff Control Panel)
 
 After submission, the ticket appears in the **Agent Panel** queue.
 
 * **Open Tickets View:** The agent logs into the Staff Control Panel and sees the new ticket (**Ticket #162094**) with the subject "Forgot my password" in the **Open** status.
-    * <img width="1521" height="681" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/906e0715-ec11-419b-a7cd-14b80ea96b00" />
+    * <img width="960" height="387" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/3b5ab355-2489-4871-b64b-962354faa363" />
 
 ### 3. ✍️ Agent Response and Resolution
 
